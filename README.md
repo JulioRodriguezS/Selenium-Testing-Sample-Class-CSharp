@@ -14,6 +14,4 @@
 
 -by the way, it part of my notes at the same time :D
 
--Now you can go direct to the Example in this path:
-
-TestingTransfers/EntryPoint.cs
+-[Go direct to the Example in this link](https://github.com/JulioRodriguezS/Selenium-Testing-Sample-Class-CSharp/blob/main/TestingTransfers/EntryPoint.cs "go ahead")
