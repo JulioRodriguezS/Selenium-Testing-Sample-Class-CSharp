@@ -1,0 +1,12 @@
+C:\Users\julio\source\repos\TestingTransfers\TestingTransfers\bin\Debug\TestingTransfers.exe.config
+C:\Users\julio\source\repos\TestingTransfers\TestingTransfers\bin\Debug\TestingTransfers.exe
+C:\Users\julio\source\repos\TestingTransfers\TestingTransfers\bin\Debug\TestingTransfers.pdb
+C:\Users\julio\source\repos\TestingTransfers\TestingTransfers\obj\Debug\TestingTransfers.csprojAssemblyReference.cache
+C:\Users\julio\source\repos\TestingTransfers\TestingTransfers\obj\Debug\TestingTransfers.Properties.Resources.resources
+C:\Users\julio\source\repos\TestingTransfers\TestingTransfers\obj\Debug\TestingTransfers.csproj.GenerateResource.cache
+C:\Users\julio\source\repos\TestingTransfers\TestingTransfers\obj\Debug\TestingTransfers.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\TestingTransfers\TestingTransfers\obj\Debug\TestingTransfers.exe
+C:\Users\julio\source\repos\TestingTransfers\TestingTransfers\obj\Debug\TestingTransfers.pdb
+C:\Users\julio\source\repos\TestingTransfers\TestingTransfers\bin\Debug\WebDriver.dll
+C:\Users\julio\source\repos\TestingTransfers\TestingTransfers\bin\Debug\WebDriver.xml
+C:\Users\julio\source\repos\TestingTransfers\TestingTransfers\obj\Debug\TestingTransfers.csproj.CopyComplete
