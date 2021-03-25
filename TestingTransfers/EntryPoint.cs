@@ -1,5 +1,6 @@
 ﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Support.UI;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -78,14 +79,25 @@ namespace TestingTransfers
             var stEmail = driver.FindElement(By.Id("stEmail"));
             stEmail.SendKeys("test@test.com");
             var stPhone = driver.FindElement(By.Id("stPhone"));
+            stPhone.SendKeys("9981828384");
             var stPassengersNumber = driver.FindElement(By.Id("stPassengersNumber"));
+            var selestPassengersNumber = new SelectElement(stPassengersNumber);
+            selestPassengersNumber.SelectByValue("2");
             var stOrigin = driver.FindElement(By.Id("stOrigin"));
+            stOrigin.SendKeys("Aeropuerto");
             var stArrivalDate = driver.FindElement(By.Id("stArrivalDate"));
+            stArrivalDate.SendKeys("01/04/2021");
             var stArrivalAirline = driver.FindElement(By.Id("stArrivalAirline"));
+            stArrivalAirline.SendKeys("Volaris");
             var stFlightNumber = driver.FindElement(By.Id("stFlightNumber"));
+            stFlightNumber.SendKeys("805VF");
             var stArrivalTime = driver.FindElement(By.Id("stArrivalTime"));
+            stArrivalTime.SendKeys("09:15 a.m.");
             var stDestiny = driver.FindElement(By.Id("stDestiny"));
+            stDestiny.SendKeys("Hotel");
             var stCost = driver.FindElement(By.Id("stCost"));
+            stCost.SendKeys("1500.00");
+            Thread.Sleep(500000);
 
         }
     }
