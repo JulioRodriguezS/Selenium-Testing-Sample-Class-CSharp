@@ -10,3 +10,5 @@ C:\Users\julio\source\repos\TestingTransfers\TestingTransfers\obj\Debug\TestingT
 C:\Users\julio\source\repos\TestingTransfers\TestingTransfers\bin\Debug\WebDriver.dll
 C:\Users\julio\source\repos\TestingTransfers\TestingTransfers\bin\Debug\WebDriver.xml
 C:\Users\julio\source\repos\TestingTransfers\TestingTransfers\obj\Debug\TestingTransfers.csproj.CopyComplete
+C:\Users\julio\source\repos\TestingTransfers\TestingTransfers\bin\Debug\WebDriver.Support.dll
+C:\Users\julio\source\repos\TestingTransfers\TestingTransfers\bin\Debug\WebDriver.Support.xml
